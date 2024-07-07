@@ -1,0 +1,2 @@
+Datos origen
+https://www.kaggle.com/datasets/hafiznouman786/potato-plant-diseases-data
